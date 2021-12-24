@@ -1,5 +1,5 @@
-This is an extremely easy to use, quick way to delete Temporary Windows files that take up storage space.
-You can either simply run the .bat file, or you can follow these steps so it runs on Windows bootup.
+This is an extremely easy to use/quick way to delete temporary Windows files that take up storage space.
+You can either simply run the .bat file, or you can follow these steps so it runs on Windows startup.
 
 
 RUN ON WINDOWS BOOTUP
@@ -11,3 +11,4 @@ RUN ON WINDOWS BOOTUP
 
 
 Hope this is a useful tool for some of you who struggle with temporary files taking up storage.
+Temporary files can be extremely obnoxious and so this helps automate deleting these files.
