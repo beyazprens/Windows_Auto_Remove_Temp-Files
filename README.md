@@ -12,3 +12,7 @@ RUN ON WINDOWS BOOTUP
 
 Hope this is a useful tool for some of you who struggle with temporary files taking up storage.
 Temporary files can be extremely obnoxious and so this helps automate deleting these files.
+
+cleanup.bat Download
+-------------------------
+<a href="cleanup.bat">Click To Download cleanup.bat</a>
